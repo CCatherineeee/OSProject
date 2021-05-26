@@ -1,0 +1,10 @@
+E:\ElevatorController\bin\Debug\ElevatorController.exe.config
+E:\ElevatorController\bin\Debug\ElevatorController.exe
+E:\ElevatorController\bin\Debug\ElevatorController.pdb
+E:\ElevatorController\obj\Debug\ElevatorController.csprojAssemblyReference.cache
+E:\ElevatorController\obj\Debug\ElevatorController.Form1.resources
+E:\ElevatorController\obj\Debug\ElevatorController.Properties.Resources.resources
+E:\ElevatorController\obj\Debug\ElevatorController.csproj.GenerateResource.cache
+E:\ElevatorController\obj\Debug\ElevatorController.csproj.CoreCompileInputs.cache
+E:\ElevatorController\obj\Debug\ElevatorController.exe
+E:\ElevatorController\obj\Debug\ElevatorController.pdb
