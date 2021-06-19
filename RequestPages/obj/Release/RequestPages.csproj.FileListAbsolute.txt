@@ -1,0 +1,9 @@
+E:\mygit\OSProject\RequestPages\bin\Release\RequestPages.exe.config
+E:\mygit\OSProject\RequestPages\bin\Release\RequestPages.exe
+E:\mygit\OSProject\RequestPages\bin\Release\RequestPages.pdb
+E:\mygit\OSProject\RequestPages\obj\Release\RequestPages.Form1.resources
+E:\mygit\OSProject\RequestPages\obj\Release\RequestPages.Properties.Resources.resources
+E:\mygit\OSProject\RequestPages\obj\Release\RequestPages.csproj.GenerateResource.cache
+E:\mygit\OSProject\RequestPages\obj\Release\RequestPages.csproj.CoreCompileInputs.cache
+E:\mygit\OSProject\RequestPages\obj\Release\RequestPages.exe
+E:\mygit\OSProject\RequestPages\obj\Release\RequestPages.pdb
