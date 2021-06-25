@@ -21,7 +21,7 @@ namespace FileManageSystem_Demo
         private void Button1_Click(object sender, EventArgs e)
         {
             Close();
-            flag = true;
+            flag = false;
         }
 
         private void Button2_Click(object sender, EventArgs e)
@@ -30,7 +30,7 @@ namespace FileManageSystem_Demo
             if (dr == DialogResult.OK)
             {
                 Close();
-                flag = false;
+                flag = true;
             }
 
 
@@ -43,6 +43,11 @@ namespace FileManageSystem_Demo
         public bool IsCancel()
         {
             return flag;
+        }
+        public void setFile(string str)
+        {
+
+            InputData.Text = str;
         }
     }
 }

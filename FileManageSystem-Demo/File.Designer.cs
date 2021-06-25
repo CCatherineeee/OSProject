@@ -40,6 +40,7 @@
             this.InputData.Location = new System.Drawing.Point(12, 65);
             this.InputData.Multiline = true;
             this.InputData.Name = "InputData";
+            this.InputData.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.InputData.Size = new System.Drawing.Size(996, 432);
             this.InputData.TabIndex = 0;
             // 
